@@ -1,0 +1,1 @@
+In my Population Demographic Analysis project, the main goal was to study population growth trends and demographic patterns across different countries and years. The raw dataset contained large volumes of population data, so the first step was data preprocessing and cleaning to handle missing values and remove inconsistencies.
